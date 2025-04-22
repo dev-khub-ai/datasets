@@ -1,6 +1,6 @@
 # The **Oranges** dataset
 
-![orange A1.jpg](./oranges/A/A1.jpg)
+![orange A1.jpg](./A/A1.jpg)
 
 This dataset is part of an ongoing series of experiments at khub.ai. Our goal is to create a Generative‑AI‑based framework that supports a knowledge‑centric industry.
 
